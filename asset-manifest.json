@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roundstart/static/css/main.65fe43d0.css",
+    "main.js": "/roundstart/static/js/main.9574339f.js",
+    "static/js/787.cb7e607a.chunk.js": "/roundstart/static/js/787.cb7e607a.chunk.js",
+    "index.html": "/roundstart/index.html",
+    "main.65fe43d0.css.map": "/roundstart/static/css/main.65fe43d0.css.map",
+    "main.9574339f.js.map": "/roundstart/static/js/main.9574339f.js.map",
+    "787.cb7e607a.chunk.js.map": "/roundstart/static/js/787.cb7e607a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65fe43d0.css",
+    "static/js/main.9574339f.js"
+  ]
+}
